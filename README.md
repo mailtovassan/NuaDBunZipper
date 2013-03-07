@@ -5,7 +5,7 @@ Nuadbunzipper very usefull lib for your DB unzip. If you used zip DB you can Get
 Steps
 
 * Add libs
-   libNuaDBunZipper.a,
+   libNuaDBunZipper.a
    libz.1.2.5 (From native)
 
 * Add Header File
