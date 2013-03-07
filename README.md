@@ -12,7 +12,7 @@ Steps
    NuaDBunZipper.h
 
 
-* #import "NuaDBunZipper.h
+* '#import "NuaDBunZipper.h'
 
 * NSString*pathname=[[NuaDBunZipper alloc]initdb:"YOUR DB NAME WITH  .sqlite"];
   
