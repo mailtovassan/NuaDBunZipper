@@ -6,6 +6,7 @@ Steps
 
 * Add libs
    libNuaDBunZipper.a
+* Add libs
    libz.1.2.5 (From native)
 
 * Add Header File
